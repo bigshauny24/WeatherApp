@@ -1,0 +1,22 @@
+input {
+  margin: 10px;
+  line-height: 50px;
+  padding: 5px;
+  border: none;
+  border-bottom: 1px solid gray;
+  font-size: 150%;
+  color: gray;
+}
+
+input[type="text"] {
+  background-color: rgba(0, 0, 0, 0);
+  width: 30%;
+}
+
+input[type="submit"] {
+  background-color: #f16051;
+  color: #fff;
+  border: 2px solid gray;
+  border-radius: 10%;
+  padding: 10px;
+}

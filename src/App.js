@@ -14,24 +14,24 @@ class App extends Component {
           <div className="row">
             <div className="col-md-4">
               <Title />
+            </div>
             <div className="col-md-8">
               <div className="row">
                 <div className="col-md-12">
                   <Form />
+                </div>
+              </div>
               <div className="row">
                 <div className="col-md-12">
                   <Weather />
-                      </div>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    );
-  }
-}
+          );
+        }
+      }
 
-export default App;
+      export default App;
