@@ -1,0 +1,12 @@
+.Title {
+  background-image: url('../../static/images/bg.jpg');
+  color: #ffff;
+  text-align: center;
+  height: 500px;
+  padding-top: 50%;
+
+}
+
+h1 {
+  padding-top: 18%;
+}
